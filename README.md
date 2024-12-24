@@ -50,6 +50,7 @@ Visualization:
 Side-by-side comparisons of MSE and R-squared values across models.
 Graphical representation of alcohol and tobacco consumption trends across states.
 Results
+
 Best ML Model: [Specify the model] achieved the lowest MSE and the highest R-squared value for predicting alcohol consumption.
 Deep Learning Insights: Neural networks provided better accuracy compared to traditional ML algorithms, particularly for tobacco consumption.
 How to Use
